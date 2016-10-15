@@ -222,6 +222,13 @@ a.pure-button-primary {
     margin: 2em 0 1em;
 }
 
+.bordering {
+  text-align: center;
+  background: #fff;
+  padding: 10px;
+  
+}
+
 /* This is a modifier class used when the content-head is inside a ribbon */
 .content-head-ribbon {
     color: white;
